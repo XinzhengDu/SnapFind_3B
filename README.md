@@ -20,13 +20,11 @@ No user data (videos, images, text) is uploaded to any server. This complies wit
 Currently, **English query terms are better supported** than other languages. If search results are inaccurate, translate your query into English before input.
 
 ## Prerequisites
-Before use, you must download the following model and tokenizer files:  
-- siglip_vision.onnx  
-- siglip_text.onnx  
-- tokenizer.json  
+Before use, you must download the all model and tokenizer files:  
 
-Download link: https://www.modelscope.cn/models/XinzhengDu/siglip2-base-patch16-224-onnx/files  
-Place all files in the `model` folder.
+
+Download link: https://modelscope.cn/models/XinzhengDu/siglip2-so400m-patch14-384-onnx/files
+Place all files in the `models` folder.
 
 ## Beta Features (Currently Available)
 1. Content matching: Match search terms with videos, images, and documents. Queries support descriptions of time, location, people, and scenarios.  
