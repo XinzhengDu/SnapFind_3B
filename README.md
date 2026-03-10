@@ -1,4 +1,4 @@
-# SnapFind_4B
+# SnapFind_3B
 Find any moment in video, with one sentence.
 
 ## System Compatibility
